@@ -1,0 +1,1 @@
+Spring Boot application(part-2)->spring core annotation,spring mvc sessions and modelview(session is replaced by modelview) used for java Web application using java spring boot  framework
